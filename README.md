@@ -1,0 +1,1 @@
+Code used to implement the model and carry out the analysis described in the article "Stability of emergent social norms in a model of indirect reciprocity" (Martinez-Vaquero et al, Phys. Rev. E 87, 052810 (2013)).
